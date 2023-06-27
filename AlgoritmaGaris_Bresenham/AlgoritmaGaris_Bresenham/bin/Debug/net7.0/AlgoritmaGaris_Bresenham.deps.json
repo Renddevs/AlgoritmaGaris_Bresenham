@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AlgoritmaGaris_Bresenham/1.0.0": {
+        "runtime": {
+          "AlgoritmaGaris_Bresenham.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlgoritmaGaris_Bresenham/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

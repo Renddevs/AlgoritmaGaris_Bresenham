@@ -1,0 +1,15 @@
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\bin\Debug\net7.0\AlgoritmaGaris_Bresenham.exe
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\bin\Debug\net7.0\AlgoritmaGaris_Bresenham.deps.json
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\bin\Debug\net7.0\AlgoritmaGaris_Bresenham.runtimeconfig.json
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\bin\Debug\net7.0\AlgoritmaGaris_Bresenham.dll
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\bin\Debug\net7.0\AlgoritmaGaris_Bresenham.pdb
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\obj\Debug\net7.0\AlgoritmaGaris_Bresenham.csproj.AssemblyReference.cache
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\obj\Debug\net7.0\AlgoritmaGaris_Bresenham.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\obj\Debug\net7.0\AlgoritmaGaris_Bresenham.AssemblyInfoInputs.cache
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\obj\Debug\net7.0\AlgoritmaGaris_Bresenham.AssemblyInfo.cs
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\obj\Debug\net7.0\AlgoritmaGaris_Bresenham.csproj.CoreCompileInputs.cache
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\obj\Debug\net7.0\AlgoritmaGaris_Bresenham.dll
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\obj\Debug\net7.0\refint\AlgoritmaGaris_Bresenham.dll
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\obj\Debug\net7.0\AlgoritmaGaris_Bresenham.pdb
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\obj\Debug\net7.0\AlgoritmaGaris_Bresenham.genruntimeconfig.cache
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\AlgoritmaGaris_Bresenham\obj\Debug\net7.0\ref\AlgoritmaGaris_Bresenham.dll
